@@ -4,13 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TextRepoApplication {
+public class Sptext1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TextRepoApplication.class, args);
-	System.out.println(1);
-	
-	
+		SpringApplication.run(Sptext1Application.class, args);
 	}
 
 }

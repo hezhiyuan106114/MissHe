@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cn.tedu</groupId>
-	<artifactId>text-repo</artifactId>
+	<artifactId>sptext1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>text-repo</name>
+	<name>sptext1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
