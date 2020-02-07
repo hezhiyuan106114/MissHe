@@ -8,6 +8,9 @@ public class TextRepoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TextRepoApplication.class, args);
+	System.out.println(1);
+	
+	
 	}
 
 }
